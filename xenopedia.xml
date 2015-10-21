@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Missing?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/missing</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, have you seen my radiological study of Alenium anywhere? No? Typical! I take the time to design a flawless filing system and my team will still walk off with papers! This isn't the first time it's happened, either. We've had several research papers go missing. Nothing more than a day at most, but it's holding up work on our weapons development programme and that's time we can't afford to waste. I've spoken to the Provost-Marshal and reminded him if he is going to post his goons at the doors of my labs they should be taking their jobs more seriously. Hopefully that will be sufficent.  </Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Discovered!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/busted</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">A spy.&#10;&#10;In MY labs.&#10;&#10;No... no.... worse than that. At least a spy is honestly duplicitous. A spy isn't someone I invite to join my team to stop this extinction level event and sells the work I sweat blood and tears over to the highest bidder! &#10;&#10;My. Personal. Assistant! Those sly glances... the papers I submitted to Nature that were rejected! That fool has been leaking everything that passed through his filthy, theiving hands as quickly as me and my team discovered it. Now the researchers of every government and major corporation on the planet are scratching their neanderthal skulls over my theories and stealing the credit! Well, let them try! We caught the little rat sneaking out one of our prototypes so they must be having trouble grasping the nuances of alien technology, even with MY notes. What the long-term consequences of this traitor will be I can't say, but in the short term? Don't expect to ever sell our alien-derived equipment at a profit.</Data></Cell>
+   </Row>
+            <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Laser Mass Production</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/magazine</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Perhaps the naked theft of my research has a silver lining after all, Commander. I've been following the progression of our stolen technology through unoffical channels and it looks like the combined brainpower of this planet has finally cracked a fraction of what my team has managed to create. Laser weapons are now mass produced on a global scale and are being hastily issued to as many soldiers as they can crank them out of what industry still exists. You can expect friendly forces to be better armed than they previously were. Our projections suggest the statistical likelihood of a non-Xenonaut soldier dying or being severely maimed in combat has dropped from 95% to 90%.&#10;&#10;It isn't all sunshine and sparkles, of course. Now that every nation has their own weapons program (successful or otherwise), they're completely dependant on crashed ufos for alenium and alloys, making our sponsors our biggest competitors for the resources we need to win this war. Furthermore, the xenoastronomy lab reports the alien armada appears to be almost complete with refitting their largest invasion craft. These brave heroes are a day late and a dollar short. Unless they manage to pull themselves up to our own technological level, we continue to be the best and only hope for mankind. &#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Scouting Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/scouting</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Hello Commander, as requested we at Strategic Planning have started to analyse ET UFO activity and determine their military objectives. Meaning no disrespect to R&amp;D, but interpreting ET strategy is best suited to the men who do it for a living. I'll be keeping you updated on whatever we can discover about extraterrestrial UFO activity, like now, for instance.&#10;&#10;Earlier today there was a confirmed sighting of a UFO, light scout class, circling low over a classified research station in America. It didn’t take any visible action but local radio operators detected unusual bursts of energy in the VHF band and the researchers detected simultaneous bursts in the SHF band. I've cross-linked this with similar reports in Germany, Australia and Hong Kong. Considering the strategic importance of the locations involved and the analysis of light scouts from R&amp;D, I'm certain these scouts were gathering and transmitting intelligence on potential future targets &#10;&#10;UFOs on scouting missions remain in the air for an extended period of time, gathering intel on potential targets. There doesn't seem to be any particular plan to what they cover, so it should be fairly easy to intercept one. As the ETs have dedicated ships for scouting, you can expect scouting missions to be carried out by small signals. The more intel a scout can gather, the more damaging later attacks will be so try and get as many scouts taken down as you can. Even if we can’t recover the crash site, we can at least make sure the ETs are fighting in the dark. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Research Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/research</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Before I left the air force, my last job was working the crank file and if I didn't know better, I'd say some joker had shipped everything from Langley and left it on my desk. That stack of reports in front of you is a sizeable chunk of recent UFO sightings and they're like something out of a comic book. Mostly vivid descriptions of unusual, almost paranormal activity – such as storms suddenly appearing out of nowhere, eerie glowing lights and signs of unexplained cattle mutilation. I even have a report from a man who claims to have been abducted then kicked out by his abductors! The ETs seem to be carrying out some kind of research but why and for what reason we don’t know.&#10;&#10;Research missions seem to be restricted to their scout ships who will scan a pre-defined area looking for suitable subjects and locations to carry out their experiments. Scouts doing research will also land fairly frequently to obtain samples and carry out field work. Research missions can result in casualties, but nothing major. Whatever they're up to Commander, I think it's better we don't get a chance to find out. Don't you? </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Terror Attack Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/terrorsite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">I was talking with the heads of Communication and Detection over the latest UFO movements and between us we’ve spotted a new and dangerous direction the ETs are heading in. A short while ago – we're not sure exactly when - a UFO slipped through the net and targeted, get this, a music festival! The organisers had held it in an open field in the mistaken belief that UFOs only attacked towns. This wasn’t an airstrike – the ETs used ground teams to massacre the festival goers.&#10;&#10;We don‘t have a lot to go on – our sponsors got to the few survivors first and while we have transcripts of the interviews, there are maddening gaps in the information. What we can be certain of was there were a significant number of ETs involved in this attack and they had deployed some sort of man-sized Frankenstein which got fried by an unshielded power cable. &#10;&#10;My team thinks this was a test run and we can expect further attacks by cadres of alien shock troops tasked with terrorising funding nations by slaughtering the civilian population. One of my juniors who’s a history buff drew a parallel between this and a method used by Genghis Khan. He’d obliterate a city and threaten other cities with the threat of vanishing as well if they resisted. &#10;&#10;Successful terror attacks are the most damaging of any alien mission to our organisation. Our sponsors have strongly hinted that nuclear protocols will be deployed to prevent what they call “biological contamination”. The politicians will blame us to keep Joe Citizen off their backs and our funding and reputation takes a hit that’s hard to come back from. If we do save a city from the ETs that will look particularly good for us and we can expect a big boost in funding for every terror site we clean up. UFOs on a terror missions are medium-grade signals at a minimum and they are almost always escorted. They will try to throw us off the scent, so look for slow moving signals which move randomly but seem to be circling a specific patch of cities - that's probably a ship on a terror mission. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ground Attack Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/groundattack</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">I'm pretty friendly with one of the junior researchers at R&amp;D (the seniors don’t have time for us grunts) and she told me they had identified over three and a half thousand separate alien craft orbiting our world. If they all landed tomorrow we’d be dead. As it is, the ETs have &quot;merely&quot; committed to the largest air war since Hitler was in power. &#10;&#10;Pattern analysis of ET airstrikes suggests they’re currently focussing on “soft” targets - highways, small towns, even isolated warships on patrol. These targets are difficult for emergency services to respond to and the ETs ability to strike and retreat anywhere makes it impossible for local forces concentrated nearer the larger population centers to intercept. &#10;&#10;Ground attack missions can be carried out by any grade of signal, from the smallest to the largest. Rather than being given a specific target, UFOs will patrol a patch of the planet looking for targets of opportunity. UFOs tasked with a ground attack mission will strike several times before retreating to rearm and refuel and can cause serious havoc.  &#10;&#10;They’re damned clever, Commander. They strike at locations that make no immediate military or economic impact, but they whittle away at our confidence and cut lines of commerce and communication. If we become isolated, the planet will shut down as effectively as if they bombed every capital into rubble. Our experience and detection tech gives us a fighting chance against ET strikes, but the fact is there are too many of them and too few of us to handle them all at once. My advice is to get as many bases built as you can. Never mind R&amp;D’s bleating for more funds. Those nerds have no idea of how the real world works and we need boots on the ground, not heads in the sky. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bombing Run Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/bombingrun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">R&amp;D was able to extract and translate a flight plan from the wreckage of the ET bomber shot down and has passed it over to us. We’ve mapped the route and it intersects the industrial zones of several cities as well as a classified base. The timing is too tight and the sites too large for ground landings but adequate for a string of rapid airstrikes culminating with a heavy raid on the base. Commander, it looks like the ETs are going to step up their air campaign. &#10;&#10;We can expect ET bombers to target strategic, economic and civilian targets of significance but with a whole planet to pick from it’s going to be difficult to predict where they’re going to strike. If this flight plan is any indication, it looks like they’ll be tasked with hitting several minor targets and then prep for a major raid which will expose them to attack by our interceptors. Bombers are very likely to be escorted and will be a medium-class signal or larger. Look for medium signals with flight patterns that focus on specfic targets but don't land. &#10;&#10;Predicted casualties from a bombing run are expected to be the hundreds so shut them down as a priority Commander. We can always send in a team to deal with ground landings, but bombing runs can only be intercepted.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Interception Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/interception</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">What do you want to hear first, the good or the bad news? The good news is we’re having a serious impact on ET air operations. Incidents are down over the sponsors we're covering, and R&amp;D's happy with the technology we've recovered. The bad news is ET high command has escalated operations by introducing dedicated fighter craft. &#10;&#10; The ETs have set up combat air patrols (CAP) to directly counter both our own interceptors and national forces. UFOs tasked on interception missions will patrol the skies, striking at civilian and military aircraft. Data from the previous intercept suggests that ET fighters on CAP missions will make Xenonaut aircraft a priority. If ET interceptors spot our craft (most likely informed by ET satellites), they will head directly towards them and force a fight. Interceptors are the most likely type of UFO on CAP, so look for very small signals. Dropships will be especially easy targets, so I would recommend clearing out squadrons with interception missions first before tackling other craft to prevent accidents happening to the ground team.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Base Construction Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/basebuild</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">I have a report of an engagement between local forces and ETs around a historically important mountainside which tourists flock to every year. Look at the photos here, and here. You can see they’ve used some kind of device to bore a kilometer-long tunnel into the rock. Unfortunately, this isn’t just simple-minded vandalism, this is something more sinister. &#10;&#10;The ET’s orbital fleet gives them the freedom to strike at any target in any part of the globe but this freedom is restricted by their lines of supply. ET UFOs need to head back to their motherships to refuel, which the eggheads tell me is physically taxing even for their advanced technology. This total dependency means the fleet must have massive and ongoing supply operation to provide it with everything it needs, even though our planet has more than adequate resources if they could only get at them.  &#10;&#10;To relieve the supply and repair burden on the fleet, must construct forward operating bases on the planet as places for refitting and repairing smaller craft, staging areas for ground-based missions and supply dumps for foraging expeditions to reduce supply dependency. This tunnel look like a test bore to see if that mountainside would be a suitable candidate. Pity they didn’t do their homework, eh? &#10;&#10;National landscapes aside, we can expect ET bases to be set up in remote locations away from centres of population. This will make it hard to track them down. I’ve dispatched agents to gather what information they can and our analysts are pouring over historical UFO sighting data but this will take time and it isn’t a reliable source of information. The most reliable way to detect an ET base is by tracing UFO activity. &#10;&#10;Only medium-class signals or higher will carry out base construction missions. Look for medium signals that land, take off again and land shortly after, doing this several times. That’s a sign the ETs are surveying sites to see if they are suitable for a base. &#10;&#10;Their bases will need essential supplies they can’t manufacture themselves. So if you can't find any bases, look for medium-class signals which dawdle over locations that don’t seem to be either a city or your own base. If you follow those craft to their end destination, they should lead you to the location of the ET base.  &#10;&#10;ET bases are parasites that will sap the will of the sponsor they're attached to. While they don’t have an obvious short-term effect, over the long term they are as dangerous as any direct alien attack. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Base Assault Mission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/baseattack</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">I've squeezed intel out of an old friend in the armed forces about a ground assault on a deep nuclear launch facility. A covert group of ETs were able to access the base despite most of it being half a mile underground, and beat the hell out of base security. It was only by deliberately collapsing the residential wing that the base commander saved anything. That worries me... if the ETs are doing it to the sponsors, sooner or later they’ll do it to us. &#10;&#10;The consequence of ETs successfully attacking one of our bases is the loss of all operational assets in the base and the particular area covered by the base will be undefended until we can construct a new one. Even if we drive them off ETs can cause lasting damage by wrecking hangars, destroying labs and demolishing workshops. Don’t sit about and wait for the ETs, Commander. Go and meet them in force! &#10;&#10;Without a way of intercepting and decoding alien communications, it’ll be hard to tell if a UFO is going to mount an attack on our base or if they’re intending to attack a city. Look for escorted medium-class signals and above. They aren’t going to make it obvious that they’re going for us, but sooner or later they will have to head directly to our base. The bases most likely to be attacked will be the ones they have the most operational data on – i.e. the oldest. It would probably be a good idea to station a garrison or erect defences at the bases most at risk. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Reaper Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/reaper_terrorist</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">That was a bad business with Hawkins, Commander. I’m certain she was intending to breach the quarantine seals on the Caesan subject we have had under study. “Thankfully” she opened the Reaper larvae maturation pod instead. The silver lining on this cloud is that we have been able to closely study the effects of Reaper larvae metamorphosis on humans. Pursuant to your request on more information about Reapers, I have drawn together what we know about their class structure and appended what data we have on Reaper zombies as well.  &#10;&#10;Alpha Reaper: As if the standard Reaper weren’t bad enough, we have identified certain Reapers who are faster, stronger and more resilient than their common brethren. These “alpha” Reapers are relatively few in number but they are just as fecund as the standard Reaper. Left unchecked they can reduce cities to gibbering zombie hordes in short order. The Alpha Reaper is identifiable by its lighter hue. &#10;&#10;Zombie: The zombie resembles a hunchbacked waxwork that’s been stood too close to the fire. Facial features run together and the limbs become elongated, muscle-bound and misshapen. The hunch, from which the rapidly maturing Reaper will burst from is lined with blotchy veins. In this state zombies can do little more than swing their limbs while screaming in pain and rage. Don’t let a zombie get too close! The hosts’ death triggers a hyperaccelerated burst of growth in the larvae, and you don’t want the birth scream of a new Reaper to chime with the death rattle of your soldiers. &#10;&#10;Alpha Zombie: Alpha zombies are superficially the same shape, but the processes which create the alpha supercharge the zombie. Their shapes are more capable of bearing the extra load of an alpha, and as a consequence they are faster, stronger and more resilient. &#10;&#10;Be very careful if your own troops are infected, Commander. While they don’t have the brains to use their weapons, they still wear the tattered remains of their armour and it will provide more protection than the torn clothing that graces civilian zombies.   </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Wraith Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/wraith_warrior</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, please talk to your men. If a test subject manages to breach quarantine the correct response is to subdue and restrain it until our specialists can get to the scene. It is most emphatically not to grab whatever is to hand and reinact the more bloody scenes from the Texas Chainsaw Massacre, even if the subject does manage to teleport into the mess hall during chow time. When your brutes had finished there wasn’t enough left of the Wraith for tissue analysis. &#10;&#10;Like Harridans, Wraiths have a truncated class structure. This is probably to do with their elite status in the alien hierarchy – no Wraith need sully its hands with manual labour! While Wraith battle armour is a uniform green, we have noticed a considerable amount of personalisation with no suit exactly the same. This is probably how Wraiths distinguish themselves socially and indicates that Wraiths have a surprising level of independance in the alien hierarchy. We have identified certain strata of rank within the Wraith military, identifiable by the amount of armour it is permitted to wear.   &#10;&#10;Soldier: The Wraith solider class wears a segmented, armoured bodysuit with additonal plating at the shoulders and typically carries a plasma rifle. While this would seem a little underpowered, their ability to teleport into flanking positions and behind vehicles makes the need to carry heavier weapons unnecessary. &#10;&#10;Warrior: The Warrior class has considerably more variation in armament with heavy plasma and plasma cannons being quite common. Apart from addtional plates on the legs, the primary difference is in the thickness and quality of the subdermal armour implants which considerably improve their resilience. &#10;&#10;Officer: Like other officers, the Wraith officer class is the only class to wear a helmet which covers the most vunerable part of their anatomy - the blue nodes. We don't really understand why more Wraith don't wear helmets to protect their nodes. While the nodes do produce a lot of heat, cooling shouldn’t be an issue for am empire who can apply superconductor to surfaces like paint.  &#10;&#10;Elite: Examination of the Elites’ armour suggests considerable “after market” modifications, the most common being a treatment similar to the hardening process we have observed in Landing Craft. We have also noted implants of an unknown type that improve the flexibility, agility and overall resilience of the Elite. Elites wear the most complete suits of armour - a green bodysuit similar in design to Sebillian Elites, as well as a more enclosing set of armour plating.    </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Harridan Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/harridan_elite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Like some of the more obnoxious bean-counters in administration, the Harridan class structure is short, blunt and myopically focussed on its role. We have identified several classes of Harridans, their primary distinguishing feature being the quality, coverage and effectiveness of the armour they wear.&#10;&#10;Solider: Often seen accompanying Androns (no doubt to provide technical as well as long-range support), the blue-and-white Solider class is the most common opponent you will face. I hope I shouldn’t have to warn you about their skill with rifles or their jump-packs.&#10;&#10;Warrior: The most obvious upgrade the purple Warrior receives is the addition of armoured gloves and boots as well as upgrades to their targeting systems. Warriors have been seen carrying plasma cannon as well as plasma rifles, so watch out!&#10;&#10;Officer: Officers are easily identifiable by both their red armour and the additional set of wings on their backpack. The Harridan Officer acts less as a commander and more as a co-ordinating node between different Harridans. Officers are the most intelligent of the Harridan race and are the most independently minded, so be wary when facing one.   &#10;&#10;Elite: The Elite is physically indistinguishable from other Harridans, however their black and grey suits are of the highest quality and incorporate powered elements that vastly improve their physical and mental capabilities. A near tactical match for Officers, the Elite is superior to other Harridans in every way.&#10;&#10;Unusually, there is no evidence of higher-ranking leaders among the Harridans. Our best hypothesis is the nature of how Harridans behave precludes the mental capacity for grand strategy. They depend upon leaders from other races to provide them with direction… and targets.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Andron Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/andron_guard</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, exactly what did you expect when you asked Engineering for details on Androns? Their rambling, jargon-filled essay wallowing in the trivia of internal components is hardly the kind of briefing the men need or can understand. Look, the first thing you need to know is there are no non-combatant types among Androns. These walking death machines are capable of fine manipulation and their adaptive logic enables them to operate equipment without special assistance. Androns are as capable in combat as they are piloting a UFO. Secondly, we have gathered data on two broad “classes” of Andron seen in the field.&#10;&#10;Guards are their last line of defense. We have dubbed the camo-green Andron &quot;guard&quot;-class due to their fairly predictable behaviour patterns and their protective attitude towards other aliens. It is the most commonly reported model on the field. Generally equipped with a plasma rifle but also seen with heavier weapons, this class of Andron is a terror to common soldiers and should be approached with care by any trooper only armed with a rifle.  &#10;&#10;Soldiers, however, are larger, more imposing and better armoured than the guard-class. The navy blue solider class Andron exclusively carries heavy weapons, especially the heavy plasma gun. The shorter range of the heavy plasma gun means it must get closer to be in optimal range, but that suits the Androns’ style of attack.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Advanced Andron Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/andron_elite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The surliness of Engineering is not my fault. They need thicker skins if they’re going to be in this business. But, in the interest of good relations, I've asked them to provide their expertise in analysing Androns and they've provided a useful insight. As a general rule, the more dangerous an Andron is the larger and bulkier it becomes with the Elite class as the apex of power and physical size. We've identified several more classes of Andron for you to peruse. &#10;&#10;Warrior: I hesitate to call any model of mass-produced robot a “veteran”, but this best fits the specification. The light blue Warrior class is better armoured and equipped than the front-line solider class and more importantly has superior logic and tactical analysis systems.   &#10;&#10;Elite: The GT model of Androns with all the optional extras. The massive Elite class sports a fancy red paint job while retaining the same basic form of the Warrior. Under the carapace a fascinating combination of sophisticated recoil dampers, gravitronic stabilisers and a powerful load-bearing frame turns the Elite into a bipedal micro-tank, capable of moving and shooting heavy weapons without a significant drop in accuracy or speed. &#10;&#10;Officer: This majestic purple monster possesses the same power as the Elite, but packs it into a sleeker frame. Officers are the most dangerous Andron you will face and that’s saying something, as they combine the raw power of Elites with a deep tactical intelligence.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Sebillian Non-Combatant Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_noncom</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, our Xenosociologist has been compiling information on the Sebillian race. Most of it, while interesting, is irrelevant for field operations. I have taken the time to compose a summary of the most useful information for the men.&#10;&#10;I’m sure you’ve heard the self-congratulation and back-slapping going on in the locker room over the success of the last mission. I hate to turn those smiles into frowns (actually, I don’t) but many of those “hard targets” were, amusingly enough, not intended for ground operations. From our data we have strong reason to believe a sizeable number of subjects recovered are non-combatants. They form the operational core of any UFO crew acting as pilots, engineers, navigators and other essential noncombat roles. They neither need nor are given more than basic training in combat, are armed with pistols and only have their naked (if resilient) skin as protection. (Incidently, I have had to chastise some lab assistants for skinning Sebillians and selling their hides to your men. Did you know that corporal England is an amateur leatherworker? I should check their uniforms, if I were you.)&#10;&#10;Our Xenosociologists theorise they are either a slave caste, bred in their millions to serve the needs of the higher echelons or younglings who have yet to find their position within the larger social group and are assigned duties suitible for young aspirants who cannot yet be trusted with a gun. In either case, they will likely stick close to grounded UFOs and it is extremely unlikely that the men will see them in any dedicated alien combat operation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Sebillian Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_soldier</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, kindly tell those knuckle-dragging graduates from Jarhead Academy to stop bothering my staff when they are off-duty. We deal in verifiable facts, not half-baked rumours and pie-in-the-sky hearsay. When we have reliable information, we will pass it on.  Here is our analysis of the combat-ready Sebillian types the men will face.&#10;&#10;Guard. The next step up from the non-combatant, guard-class Sebillians are comparatively larger equipped with plasma rifles and wear a breastplate made from alien alloys which provides some protection while giving them freedom of movement. Our observations of them suggest that they prefer defensive postures. Their true role may be shipboard security, rather than frontline soldier.&#10;&#10;Soldier.  Soldier-class Sebillians are the closest to what we would consider “front-line” troopers. They wear a more complete set of body armour, covering the brest and groin. They also wear additional armour on their comparatively vulnerable legs and have been seen to carry heavier (and nastier) weaponry. Film footage donated from some of our sponsors suggests their weapons can liquefy an un-armoured man in a few seconds.&#10;&#10;If you can’t drive anything else into the thick heads of your men, beat into their skulls this following equation. More armour = more dangerous.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Advanced Sebillian Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_leader</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, I’ve analysed the most recent after-action reports and I’m both concerned and pleased at the same time. The Sebillian war machine has responded to our continued operational success and rapid technological advances by committing their most experienced troops to the field in an effort to stamp us out. This will prove an error on their part, as their leaders and officers are now closely supervising ground operations which gives us an opportunity to obtain vital intelligence from the higher echelons of the Sebillian army. My team has put together what information we have on these elite troops for your perusal.  &#10;&#10;Warriors/Elites. Sebillian veterans distinguish themselves from their lowly brethren by the quality of their armour and the ornate shoulder plates they wear. They are tougher, faster and stronger than anything you have faced previously. Standard armament for Warriors is the heavy plasma gun and the deadly plasma cannon. Watch out for Sebillians wearing a red gambeson under their armour plating. This is issued to the Sebillian equivalent of human special forces, a real Elite that will test your men severely. &#10;&#10;Officers/Leaders. The officer class is the only class which wears any kind of headgear - this is probably for cultural reasons. Keep watch for the distinctive domed helmet of an officer. They are the most intelligent of their kind, although this doesn’t say very much as social progression for a Sebillian seems to be based less on tactical brilliance and more on personal prowess in battle. Expect a tough fight from an officer, Commander.  &#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Caesan Non-Combatant Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_noncom</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">From the earliest recording of a crashlanding in Puglia, Italy in 1910 to famous incidents such as the Gateshead Grey abductions, humanity has held an endless facination with &quot;little green man from Mars&quot;. Now they're here, with sinister intent. I've prepared a summary of what we know for your distribution as our “brave boys” have slept through every briefing I have given. Perhaps you could invite them to a story at bed-time.&#10;&#10;It's unsurprising our soldiers have torn through Caesans like a shark in swimming pool. Several subjects we have brought in for study are ill-prepared for a fight. Caesans in red jumpsuits seem to fill non-combatant roles, such as technician or navigator. Given their unique genetic structure they may be manufactured on a production line basis then programmed to meet specific manpower needs.&#10;&#10;Like our own pilots and engineers, they are only lightly armed and perform poorly in groundside combat. Their jumpsuits are resistant to impacts, but while it can absorb a 9mm bullet it is considerably less effective against a hail of rifle rounds. I would expect to find non-combatants on every UFO you bring down, but never in any dedicated combat operation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Caesan Class Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_soldier</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Commander, I don’t appreciate the looting of valuable research materials from crash sites. I especially don’t appreciate those same research materials appearing as trophies in the man cave your soldiers call a barracks. The colouration of different Caesan jumpsuits has a clear sociological meaning that we have yet to penetrate, and it doesn’t help our cause when they are spirited away to be kept as knickknacks and good luck charms. Regardless of this setback, we have begun to distinguish between different colours and have the results below.&#10;&#10;Guard. Blue-jumpsuited Caesans represent the first combat-ready Caesan we have met. Armed with plasma rifles, they can hold their own against a squad of ordinary soldiers. Their jumpsuits have several reinforced layers that can take considerably more punishment, although their physiology remains the same as non-combatants.  &#10;&#10;Soldier. The Guard, while fearsome, isn’t what we would consider a “front-line” trooper. That distinction is given to the Soldier-class. Considerably more aggressive than the Guard-class, the Soldier carries a wider variety of armaments and isn’t afraid to fling grenades at any tightly-packed group of soldiers that get in its way. Its jumpsuit is marked by dark blue arms and light blue shoulderpads. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Caesan Psion Analysis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_psion</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Spoon-Benders. Aura-Readers. Fortune-tellers. Psychics. Even with the miracles of alien technlogy laid out in my lab I would have never, ever credited that psychic phenomina could exist except in the heads of the credlous and the cretinous. However, in the face of overwhelming evidence what else am I to call it? Psychics are real, Commander.   &#10;&#10;It's now clear why the Caesan brain is supersaturated with Alenium nanoparticles. These particles react with their unique brain structure in a manner we don't yet understand to power abilities that you or I would recognise as psychic. But while it seems that all Caesans have the potential for psychic powers, only a select few actually express this ability. Given what we know about Caesans, psychic abilities are probably deliberately edited out of the standard clone, reserved for an elite few. We have termed these Caesans “Psions” and they are recogniseable by the lurid purple jumpsuits they wear.  &#10;&#10;Thankfully, psychic “gifts” seem entirely related to various “modes” of telepathy. Thourough testing of a Psion shows that it could manipulate gross emotions (especially the sense of fear). A Psion will never telekinetically lift a car and throw it at one of the men! However, I suggest advising squad leaders to make any Caesan in a puple jumpsuit a priority target. Their powers are subtle and are all the more dangerous for being so. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+    <Cell><Data ss:Type="String">Advanced Caesan Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/caesan_officer</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Commander, the Caesans have stepped up their game. We have seen a marked improvement in the quality of Caesan troops in the field to the point where national armies are completely overwhelmed. Reports are filtering through of soldiers complaining of headaches, irrational bursts of dread and similar physiological and psychological phenomena in the presence of Caesans other than the previously identified Psion. I am extremely concerned that psychic abilities may be more widely spread than what I had previously thought, but we don't have enough data to be sure. Recorded below is the latest information we have on these new Caesans.  &#10;&#10;Warriors/Elites: Like the Sebillians, the Caesans have their own cadres of veterans and special forces although I have a sneaking suspicion that Caesans can simply force-grow troops like these to order.  They wear visible body armour (in the case of the Elite, they wear what we would consider to be full body armour) with distinctive, angular shoulder pads. They carry the nastiest weapons, including the dreaded plasma cannon. The warrior’s armour is coloured a subtle violet and the elite’s armour is coloured red.  &#10;&#10;Officers/Leaders: The only members of the Caesan army to wear headgear, most reports of unusual psychological occurrences centre on officers, especially when an officer is sighted. If you can obtain samples of intact helmets I’d appreciate it. There may be something about the helmet – some device that is causing these effects and it might be adapted to our own armour. The more common officer wears a mostly blue suit of armour, while the leader wears a red suit of armour similar to the Elite. </Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
+    <Cell><Data ss:Type="String">Andron Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/andronanalysis</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">Well done, Commander. Whoever fired the lucky shot that disrupted its self-termination mechanism has given us an intact specimen rather than the usual fragged to hell mess of circuitry that forms its brain and I've been working around the clock to decrypt its contents.&#10;&#10;The brain is an engineering marvel. Like the rest of the body, it's been modelled on organic beings - a large, complex lump of matter. Considerable thought has been given to cooling the excess heat a machine-speed brain generates. The architecture of the brain is so designed to prevent hotspots from forming, superconductive material is used throughout and an unusual liquid coolant is used whose molecules appear to clump around spots of heat and ignore cooler areas, regulating the amount by which any particular area is cooled rather than cooling everything by the same uniform temperature. As with other design decisions of the Andron, there don't seem to be any efficiency gains from modelling the brain like this. A distributed set of processing nodes throughout the body would be easier to cool and make the Andron more resilient against an attack which takes out a processing node.&#10;&#10;Digital forensic analysis of its operating system reveals two distinct layers of machine code. The first, more fundamental layer is an autonomous, undirected,  self-aware neural network. This generalised layer can learn and reason in a similar way that higher-order mammals can. It was difficult to unearth, as it's been partially hidden and mostly brutalised by a second layer of code which savages the self-learning and self-improvement mechanisms, installs powerful obdience protocols and forces the decision matrix to refer to an approved master instruction set turning a potentially self-aware being into a lobotomised slave. This disparity between the two layers both in design and intent is striking. Clearly Androns weren't always this way... but what were the Androns before they were re-purposed as engines of war? Experiments are underway to see if we subvert the control layer. A mass slave revolt on Andron-crewed vessels may be one solution to the invasion. &#10;&#10;For all the Andron's robot speed and strength, their slavish instruction set makes them incredibly predictable, right down to the way they hold their weapons and the precise pattern of movements they make in combat. These "tells" as well as detailed files on weak spots in their armour plating have been packaged up and distributed to your men. You should see a roughly 10 percent improvement in damage caused by exploitation of these weaknesses. </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>13</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>20</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
