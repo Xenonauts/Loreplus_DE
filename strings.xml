@@ -93,7 +93,7 @@
    x:FullRows="1" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="246"/>
    <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
-           <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
     <Cell><Data ss:Type="String">Impossible Research</Data></Cell>
    </Row>
@@ -101,19 +101,19 @@
     <Cell><Data ss:Type="String">Researches.RecursiveResearch</Data></Cell>
     <Cell><Data ss:Type="String">Recursive Research</Data></Cell>
    </Row>
-          <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell><Data ss:Type="String">Missing?</Data></Cell>
    </Row>
-             <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
     <Cell><Data ss:Type="String">A spy!</Data></Cell>
    </Row>
-                   <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
     <Cell><Data ss:Type="String">Laser Mass Production</Data></Cell>
    </Row>
-        <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
     <Cell><Data ss:Type="String">Sebillian Non-Combatant Analysis</Data></Cell>
    </Row>
@@ -181,29 +181,25 @@
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
     <Cell><Data ss:Type="String">Bombing Run Mission</Data></Cell>
    </Row>
-      <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
     <Cell><Data ss:Type="String">Interception Mission</Data></Cell>
    </Row>
-    <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
     <Cell><Data ss:Type="String">Base Construction Mission</Data></Cell>
    </Row>
-    <Row ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
     <Cell><Data ss:Type="String">Xenonaut Base Assault Mission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AndronVivisection</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Andron Analysis</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
+    <Cell><Data ss:Type="String">Andron Analysis</Data></Cell>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">An Andron shell has been recovered intact. This research topic will analyse the recovered shell in order to identify weaknesses. On completion, our troops will gain a damage boost against this alien species.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data></Cell>
+    <Cell><Data ss:Type="String">An Andron shell has been recovered intact. This research topic will analyse the recovered shell in order to identify weaknesses. On completion, our troops will gain a damage boost against this alien species.</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
