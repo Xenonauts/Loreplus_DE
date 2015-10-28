@@ -1,8 +1,11 @@
 <?xml version="1.0"?>
 <ModInfo>
   <Name>Lore+ (DE)</Name>
+  <VisibleName>Lore+ (DE)</VisibleName>
   <Version>1.1c3</Version>
   <Author>Thixotrop</Author>
+  <Language>de</Language>
+  <Translates>Lore+</Translates>
   <Description>Lore+ ergaenzt das Wissens ueber die ausserirdische Eindringlinge. Letzte Aenderung: Andron Analyse.
   hierbei handelt es sich nur um die Uebersetzung der Texte - man benoetigt die Originalmodifikation Lore+ von Max_Caine and Co.</Description>
 </ModInfo>
