@@ -12,6 +12,7 @@ V0.8
 Im Moment sind folgende Texte übersetzt worden:
 - in **xenopedia.xml** sind  20 von 24 Einträgen übersetzt worden
 - in **strings.xml** sind noch alle 27 Einträge zu übersetzten (es handelt sich dabei jedoch um kurze Bezeichnungen der eigentlichen Forschungen/Researches, den Übersetzungsaufwand würde ich geringer einschätzen als für einen Eintrag in der xenopedia.xml)
+- es sind außerdem noch Texte auf 13 Bildern zu übersetzen.
 
 Das heißt, es sind in etwa 80% der Texte übersetzt worden.
 
