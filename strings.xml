@@ -95,107 +95,107 @@
    <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
-    <Cell><Data ss:Type="String">Impossible Research</Data></Cell>
+    <Cell><Data ss:Type="String">Unmögliche Forschung</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.RecursiveResearch</Data></Cell>
-    <Cell><Data ss:Type="String">Recursive Research</Data></Cell>
+    <Cell><Data ss:Type="String">Rekursive Forschungsmethoden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
-    <Cell><Data ss:Type="String">Missing?</Data></Cell>
+    <Cell><Data ss:Type="String">Verschwunden?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
-    <Cell><Data ss:Type="String">A spy!</Data></Cell>
+    <Cell><Data ss:Type="String">Ein Spion!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
-    <Cell><Data ss:Type="String">Laser Mass Production</Data></Cell>
+    <Cell><Data ss:Type="String">Lasermassenproduktion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
-    <Cell><Data ss:Type="String">Sebillian Non-Combatant Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Sebillianer-Techniker-Klasse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
-    <Cell><Data ss:Type="String">Sebillian Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Sebillianer-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
-    <Cell><Data ss:Type="String">Advanced Sebillian Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Vertiefte Analyse der Sebillianer-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
-    <Cell><Data ss:Type="String">Caesan Non-Combatant Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Caesaner-Techniker-Klasse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
-    <Cell><Data ss:Type="String">Caesan Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Caesaner-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
-    <Cell><Data ss:Type="String">Caesan Psion Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Caesaner-Psioner-Klasse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
-    <Cell><Data ss:Type="String">Advanced Caesan Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Vertiefte Analyse der Caesaner-Klassen </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
-    <Cell><Data ss:Type="String">Andron Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Andron-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
-    <Cell><Data ss:Type="String">Advanced Andron Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Vertiefte Analyse der Andron-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
-    <Cell><Data ss:Type="String">Reaper Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Reaper-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
-    <Cell><Data ss:Type="String">Wraith Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Wraith-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
-    <Cell><Data ss:Type="String">Harridan Class Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse der Harridan-Klassen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
-    <Cell><Data ss:Type="String">Scouting Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Aufklärungsmission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
-    <Cell><Data ss:Type="String">Research Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Forschungsmission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
-    <Cell><Data ss:Type="String">Terror Attack Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Terrorangriffsmission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
-    <Cell><Data ss:Type="String">Ground Attack Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Bodenkampfmission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
-    <Cell><Data ss:Type="String">Bombing Run Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Bombardierungsmission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
-    <Cell><Data ss:Type="String">Interception Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Abfangjägermission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
-    <Cell><Data ss:Type="String">Base Construction Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Basisbaumission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
-    <Cell><Data ss:Type="String">Xenonaut Base Assault Mission</Data></Cell>
+    <Cell><Data ss:Type="String">Angriffsmission auf Xenonautbasis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
-    <Cell><Data ss:Type="String">Andron Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">Analyse eines Androns</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data></Cell>
